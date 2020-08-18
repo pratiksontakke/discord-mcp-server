@@ -4,7 +4,7 @@ This project implements a Model Context Protocol (MCP) server that allows AI mod
 
 The server is built using Python with `fastmcp` and `discord.py` and is designed to run within a WSL (Windows Subsystem for Linux) environment while being controlled by a native Windows MCP client.
 
-## Features
+## Features ::
 
 -   **AI-Powered Actions**: Enables an AI to perform actions in a Discord server on your behalf.
 -   **Comprehensive Toolset**:

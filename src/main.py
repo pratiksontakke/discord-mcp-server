@@ -1,5 +1,3 @@
-# src/main.py
-
 import asyncio
 from contextlib import asynccontextmanager
 from typing import Dict, Any
