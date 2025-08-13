@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+*.env
+.env.*
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code / Cursor settings
+.vscode/
+.history/
+*.code-workspace
+
+# Python build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and cache
+*.log
+*.tmp
+*.temp
+*.pid
+*.seed
+*.out
+*.err
+.cache/
+.pytest_cache/
+coverage/
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Uploaded / processed files
+uploads/
+data/
+media/
+staticfiles/
+
+# LangChain / ML specific
+index_store/
+chroma/
+*.pkl
+*.bin
+*.h5
+*.model
+
+# Zip and archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+temp_uploads/
